@@ -1,5 +1,7 @@
 # Power_BI-Pizza_sales_report
-project consisting of Sql, Powerbi, Document, and data files have been upload
-Support Doc contant Sql Queries to validate date with the PowerBi report.
-firstly data was imported to Sql server management studio and some querying were done to carry out some insights.
-afterword same sql server was connect to PowerBi desktop app to visualize the date in attractive and graphical way.
+project consisting of SQL, Powerbi, Document, and data files have been uploaded
+Support Doc contains Sql Queries to validate the data with the PowerBi report.
+firstly data was imported to the Sql server management studio and some querying was done to carry out some insights.
+Afterward, the same SQL server was connected to the PowerBi desktop app to visualize the data in an attractive and graphical way.
+For reference of the Project go through the link below
+https://www.youtube.com/watch?v=V-s8c6jMRN0&t=4945s
